@@ -30,8 +30,7 @@
 
 ## 🎬 Demo
 
-![Dashboard Preview](<img width="1699" height="936" alt="Screenshot 2026-06-26 at 4 21 07 PM" src="https://github.com/user-attachments/assets/48801f34-fc48-425e-82f5-24b15fa25be1" />
-)
+![Dashboard Preview](https://github.com/user-attachments/assets/48801f34-fc48-425e-82f5-24b15fa25be1)
 
 > Enter accident conditions in the sidebar → get real-time severity probability scores + a UK-wide risk heatmap.
 

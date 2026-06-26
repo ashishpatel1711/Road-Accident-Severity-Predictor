@@ -29,6 +29,7 @@
 ---
 
 ## 🎬 Demo
+<img width="1699" height="936" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/48801f34-fc48-425e-82f5-24b15fa25be1">
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/48801f34-fc48-425e-82f5-24b15fa25be1)
 
